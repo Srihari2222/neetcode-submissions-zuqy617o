@@ -1,0 +1,3 @@
+function solution() {{
+    // burst-balloons
+}}
