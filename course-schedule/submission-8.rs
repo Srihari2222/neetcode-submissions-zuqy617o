@@ -1,0 +1,3 @@
+fn solution() {{
+    // course-schedule
+}}
