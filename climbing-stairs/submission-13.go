@@ -1,0 +1,3 @@
+func solution() {{
+    // climbing-stairs
+}}
