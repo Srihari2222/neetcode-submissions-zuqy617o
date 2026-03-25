@@ -1,0 +1,3 @@
+function solution() {{
+    // course-schedule
+}}
