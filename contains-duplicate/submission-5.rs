@@ -1,0 +1,3 @@
+fn solution() {{
+    // contains-duplicate
+}}
